@@ -1,1 +1,1 @@
-# ChitChar-MERN
+# ChitChat-MERN
